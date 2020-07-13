@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Yanai - a web developer more the 15 years.
-🤩 Love to learn and to evolve
+
+🤩 Love to learn and to evolve !
+
 💬 This is my [linkedin page](https://www.linkedin.com/in/yanaiedri/)
 <!--
 **yanai101/yanai101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
