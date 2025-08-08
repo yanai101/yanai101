@@ -1,9 +1,23 @@
-### Hi there 👋
-My name is Yanai - a web developer more the 17 years.
+### Hey there! 👋 I'm Yanai
 
-🤩 Love to learn and to evolve !
+🧑‍💻 Fullstack Web Developer | 17+ years of building for the web  
+🌱 Lifelong learner, tech enthusiast, and AI explorer  
+❤️ Open-source believer & active community contributor
 
-💬 This is my [linkedin page](https://www.linkedin.com/in/yanaiedri/)
+I’m passionate about creating clean, meaningful code — and just as passionate about helping others grow.  
+Whether it’s through sharing knowledge, contributing to projects, or just being part of the dev conversation — I’m here for it.
+
+✨ Topics I enjoy:
+- JavaScript / TypeScript / React / Node.js
+- AI & machine learning (always learning!)
+- Building tools that solve real problems
+- Empowering the dev community
+
+📫 Reach out or say hi on [LinkedIn](https://www.linkedin.com/in/yanaiedri/)  
+📁 Check out my code and projects right here on [GitHub](https://github.com/yanai101/)
+
+Let’s connect, collaborate, and create cool stuff!
+
 <!--
 **yanai101/yanai101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
