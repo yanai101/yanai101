@@ -13,10 +13,14 @@ Whether it’s through sharing knowledge, contributing to projects, or just bein
 - Exploring AI and how it connects with real-world development
 - Creating tools that solve real problems and empower others
 
+👥 I’m also the founder of **Negev Web Developers** – a community that brings together developers in the south of Israel for meetups, knowledge-sharing, and growing together.  
+If you're around – come say hi and join us!
+
 📫 Reach out or say hi on [LinkedIn](https://www.linkedin.com/in/yanaiedri/)  
 📁 Check out my code and projects right here on [GitHub](https://github.com/yanai101/)
 
 Let’s connect, collaborate, and create cool stuff!
+
 
 
 
