@@ -8,15 +8,17 @@ I’m passionate about creating clean, meaningful code — and just as passionat
 Whether it’s through sharing knowledge, contributing to projects, or just being part of the dev conversation — I’m here for it.
 
 ✨ Topics I enjoy:
-- JavaScript / TypeScript / React / Node.js
-- AI & machine learning (always learning!)
-- Building tools that solve real problems
-- Empowering the dev community
+- Building modern web applications (frontend & backend)
+- Working with a wide range of technologies — JavaScript, TypeScript, PHP, SQL, and always learning more (including Python 🐍)
+- Exploring AI and how it connects with real-world development
+- Creating tools that solve real problems and empower others
 
 📫 Reach out or say hi on [LinkedIn](https://www.linkedin.com/in/yanaiedri/)  
 📁 Check out my code and projects right here on [GitHub](https://github.com/yanai101/)
 
 Let’s connect, collaborate, and create cool stuff!
+
+
 
 <!--
 **yanai101/yanai101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
