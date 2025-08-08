@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 ### Hey there! 👋 I'm Yanai
 
 🧑‍💻 Fullstack Web Developer | 17+ years of building for the web  
